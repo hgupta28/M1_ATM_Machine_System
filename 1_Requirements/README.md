@@ -3,7 +3,7 @@
 
 # "ATM Machine System in C"
 
-# **Introduction :**
+# Introduction :
 
 ATM Machine System contains the code for ATM implementation in C. 
 This project make an automated teller machine with bank account, with that user would be able to withdrawl, deposit, view their account balance and 
@@ -17,18 +17,18 @@ it is not time overwhelming.
 
 
 
-# **Activities :**
+# Activities :
 1. Deposit
 2. Withdrawl
 3. Balance Enquiry
 4. Money Transfer
 5. Change pin
 
-# **Features :**
+# Features :
 1. saving account
 2. current account
 
-# **Description :**
+# Description :
 => By Clicking on option "1" you can withdraw the money
 => By Clicking on option "2" you can deposit the money
 => By Clicking on option "3" you can check your balance
@@ -74,7 +74,7 @@ then you can perform the operation.
 8. It also provides receipt for details of withdrawal of money and balance in account.
 
 
-#Disadvantages
+# Disadvantages
 
 1. It cannot provide services in rural region in our country whereas banks are available in the villages.
 2. Customers do not have proper knowledge of its operation so feel hesitate to use it.
