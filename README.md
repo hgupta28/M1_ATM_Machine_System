@@ -17,6 +17,9 @@ Build | Code Quality | Git Inspector | code quality score | code grade |
 *Codacy - static code Analysis
 * [![Codacy Badge](https://app.codacy.com/project/badge/Grade/55863a830b5d4fb5b358a437d65cb009)](https://www.codacy.com/gh/NehaIngle177/M1_ATM_Machine_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NehaIngle177/M1_ATM_Machine_System&amp;utm_campaign=Badge_Grade)
 
+* Codiga - Static Analysis
+![(https://api.codiga.io/project/32381/score/svg)
+
 #### Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
