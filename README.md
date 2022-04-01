@@ -13,7 +13,9 @@ From this ATM program in C, we can even use the mini-program for checking the to
 # SDLC Activity Based Learning
 Build | Code Quality | Git Inspector | code quality score | code grade |
 |---------|------------|-------------|--------------------|------------
-|
+# Badge
+*Codacy - static code Analysis
+* [![Codacy Badge](https://app.codacy.com/project/badge/Grade/55863a830b5d4fb5b358a437d65cb009)](https://www.codacy.com/gh/NehaIngle177/M1_ATM_Machine_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NehaIngle177/M1_ATM_Machine_System&amp;utm_campaign=Badge_Grade)
 
 #### Folder Structure
 Folder             | Description
@@ -22,7 +24,8 @@ Folder             | Description
 `2_Architecture`         | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_Testplan`      | Documents with test plans and procedures
-
+`5_Report`        | Documents information regarding project
+`6_ImagesAndVideos` | All images output
 
 
 
