@@ -1,4 +1,4 @@
-name: C/C++ CI UnitTesting
+name: C/C++ CI Windows
 
 on:
   push:
@@ -7,12 +7,12 @@ on:
     branches: [ main ]
 
 jobs:
-   make:
+   build:
 
     runs-on: windows-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: make
-      run: make -C 3_Implementation/test
+    - uses: actions/checkout@v3
+    - name: Build
+      run: make -C 3_Implementation
     
